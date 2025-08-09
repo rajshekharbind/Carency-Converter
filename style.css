@@ -141,9 +141,9 @@ form button {
   border-style: dashed;
 }
 
-form button:hover {
+/* form button:hover {
   transform: scale(1.05) rotateY(10deg); 
-}
+} */
 
 .dropdown {
   display: flex;
