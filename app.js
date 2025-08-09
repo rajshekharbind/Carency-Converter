@@ -46,7 +46,7 @@ const updateExchangeRate = async () => {
   // Updated URL structure
   const URL = `${BASE_URL}/${fromCurr.value.toLowerCase()}.json`;
   
-//  let response = await fetch(URL);
+ let response = await fetch(URL);
   let data = await response.json();
   let rate = data[fromCurr.value.toLowerCase()][toCurr.value.toLowerCase()]; 
   
@@ -60,6 +60,7 @@ btn.addEventListener("click", (evt) => {
   updateExchangeRate();
 });
 
-window.addEventListener("load", () => {
-  updateExchangeRate();
-});
+// window.addEventListener("load", () => {
+  
+//   updateExchangeRate();
+// });
