@@ -125,9 +125,9 @@ i.fa-solid.fa-arrow-right-arrow-left {
 }
 
 
-i.fa-solid.fa-arrow-right-arrow-left:hover {
+/* i.fa-solid.fa-arrow-right-arrow-left:hover {
   transform: translateY(-5px);
-}
+} */
 
 
 form button {
@@ -141,9 +141,9 @@ form button {
   border-style: dashed;
 }
 
-/* form button:hover {
+form button:hover {
   transform: scale(1.05) rotateY(10deg); 
-} */
+}
 
 .dropdown {
   display: flex;
