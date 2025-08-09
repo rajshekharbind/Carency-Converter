@@ -60,7 +60,6 @@ btn.addEventListener("click", (evt) => {
   updateExchangeRate();
 });
 
-// window.addEventListener("load", () => {
-  
-//   updateExchangeRate();
-// });
+window.addEventListener("load", () => {
+  updateExchangeRate();
+});
