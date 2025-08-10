@@ -157,5 +157,5 @@ const countryList = {
     YER: "YE",
     ZAR: "ZA",
     ZMK: "ZM",
-   // ZWD: "ZW",
+    ZWD: "ZW",
   };
