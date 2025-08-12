@@ -110,7 +110,7 @@ form select,button,input {
 }
 i.fa-solid.fa-arrow-right-arrow-left {
   display: flex;
-//  justify-content: center;
+ justify-content: center;
   align-items: center;
   height: 7vh;
   background-color: white;
