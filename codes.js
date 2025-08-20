@@ -126,7 +126,7 @@ const countryList = {
     SAR: "SA",
     SBD: "SB",
     SCR: "SC",
-   // SDG: "SD",
+    SDG: "SD",
     SEK: "SE",
     SGD: "SG",
     SKK: "SK",
