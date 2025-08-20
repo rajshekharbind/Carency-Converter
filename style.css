@@ -3,13 +3,13 @@
   padding: 0;
 }
 
-body {
+/* body {
   display: flex;
   justify-content: center;
   align-items: center;
   min-height: 100vh;
   background-color: #feece2;
-}
+} */
 
 .container {
   background-color: #ffbe98;
