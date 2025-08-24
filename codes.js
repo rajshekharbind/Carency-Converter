@@ -123,7 +123,7 @@ const countryList = {
     RSD: "RS",
     RUB: "RU",
     RWF: "RW",
-    SAR: "SA",
+    //SAR: "SA",
     SBD: "SB",
     SCR: "SC",
     SDG: "SD",
