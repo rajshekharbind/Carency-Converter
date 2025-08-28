@@ -149,13 +149,5 @@ const countryList = {
     UAH: "UA",
     UGX: "UG",
     USD: "US",
-    UYU: "UY",
-    UZS: "UZ",
-    VEF: "VE",
-    VND: "VN",
-    VUV: "VU",
-    YER: "YE",
-    ZAR: "ZA",
-    ZMK: "ZM",
-    ZWD: "ZW",
+    UYU: "UY"
   };
